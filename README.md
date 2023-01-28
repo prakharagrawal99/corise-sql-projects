@@ -1,1 +1,0 @@
-# corise-sql-projects
